@@ -1,0 +1,7 @@
+package:
+  name: nload
+  version: "0.7.3"
+
+source:
+  path: ../
+
